@@ -16,7 +16,6 @@
   <img src="vscode-original-wordmark.svg" alt="VSCode" height="40" width="40">
   <h2>Me puedes encontrar en:</h2>
   <a href="https://www.linkedin.com/in/elizabeth-alejandra-macias-sandoval/"><img src="linkedin.png" alt="Linkedin" height="40" width="40"></a>
-  <a href="https://www.linkedin.com/in/elizabeth-alejandra-macias-sandoval/"><p>Elizabeht Macias</p></a>
 
   <h2>Dato curioso:</h2>
   <p>Me gustan los gatos 🐈, no me gusta cocinar 😫👩🏻‍🍳, y también soy Técnico en Fabricación y montaje industrial 👩🏻‍🏭</p>

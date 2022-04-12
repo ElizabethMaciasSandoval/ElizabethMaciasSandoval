@@ -13,6 +13,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40" width="40">
   <img src="react.svg" alt="React" height="40" width="40">
   <img src="bootstrap.svg" alt="Bootstrap" height="40" width="40">
+  <img src="tailwindcss-icon.svg" alt="TailwindCSS" height="40" width="40">
   <img src="vscode-original-wordmark.svg" alt="VSCode" height="40" width="40">
   <h2>Me puedes encontrar en:</h2>
   <a href="https://www.linkedin.com/in/elizabeth-alejandra-macias-sandoval/"><img src="linkedin.png" alt="Linkedin" height="40" width="40"></a>

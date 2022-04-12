@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hola mundo!!!👋🏻</h1>
-  <h1>Me llamo Elizabeth Macias y soy Developer Front-end</h1>
+  <h1>Soy Elizabeth Macias 🙋🏻‍♀️</h1>
   <p>
-    Orientada por la curiosidad y ganas de aprender que me caracterizan, fue que conocí el maravilloso mundo de la programación, en ese momento no sospeche que nacería en mí una nueva pasión. Quise llevar esa curiosidad al siguiente nivel aplicando al bootcamp de Laboratoria, y es aquí donde abrí mi cabeza logrando aprender de manera autónoma con metodologías ágiles y el desarrollo de diversos proyectos en los que pude emplear las tecnologías que están en auge en la actualidad.
+    Y te quiero contar un poco más de mí, soy Front-end Developer 👩🏻‍💻, egresada de Laboratoria 💛 y una apasionada por aprender 📚, hoy me encuentro en la búsqueda 🔎 de mi primer trabajo en el mundo 🌎 Tech, mi enfoque como profesional es la mejora continua y es por esto que constantemente estoy en capacitación.
   </p>
 </div>
